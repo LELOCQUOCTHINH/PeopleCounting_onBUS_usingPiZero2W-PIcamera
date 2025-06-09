@@ -1,0 +1,9 @@
+[submodule "PeopleCounting-UsingYoloTinyV4"]
+	path = PeopleCounting-UsingYoloTinyV4
+	url = https://github.com/LELOCQUOCTHINH/PeopleCounting-UsingYoloTinyV4
+[submodule "PeopleCounting-UsingMobileSSD"]
+	path = PeopleCounting-UsingMobileSSD
+	url = https://github.com/LELOCQUOCTHINH/PeopleCounting-UsingMobileSSD.git
+[submodule "PeopleCounting-UsingOpenCV"]
+	path = PeopleCounting-UsingOpenCV
+	url = https://github.com/LELOCQUOCTHINH/PeopleCounting-UsingOpenCV.git
